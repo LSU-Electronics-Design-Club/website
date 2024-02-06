@@ -11,7 +11,7 @@ const BottomBar = () => {
       </div>
       <div className="flex justify-center items-center gap-8">
         <p className="text-xs">
-          Engineering Design Club @ LSU &copy; All Rights Reserved
+          Engineering Design Club &copy; All Rights Reserved
         </p>
       </div>
     </div>

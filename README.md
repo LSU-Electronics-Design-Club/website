@@ -1,4 +1,4 @@
-# Electronics Design Club @ LSU Website
+# Electronics Design Club Website
 
 ## Initial Setup
 1. Clone the repo

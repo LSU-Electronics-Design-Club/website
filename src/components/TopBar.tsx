@@ -8,7 +8,7 @@ const TopBar = () => {
             src="https://pub-4a5c351e48c34a18817678ead6714bda.r2.dev/EdcLogo.png"
             alt="EDC Logo"
           />
-          <h3 className="">Electronics Design Club @ LSU</h3>
+          <h3 className="">Electronics Design Club</h3>
         </a>
       </div>
       <div className="flex justify-center items-center gap-8">

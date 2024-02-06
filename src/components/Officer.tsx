@@ -8,7 +8,7 @@ const Officer = ({
   link?: string;
 }) => {
   return (
-    <div className="flex-col w-24 text-center">
+    <div className="flex-col w-48  text-center">
       <img src={link} className="h-20 w-20 rounded-lg mx-auto" />
       <p>{name}</p>
       <p>{position}</p>

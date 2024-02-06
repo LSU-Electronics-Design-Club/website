@@ -3,14 +3,14 @@ import "./App.css";
 function App() {
   return (
     <>
-      <div>
+      <div className="p-8 text-center">
         <h2>Welcome to the Electronics Design Club at LSU!</h2>
         <p>
           We are a community of electronics enthusiasts, makers, and innovators.
           Join us to learn, collaborate, and create amazing projects.
         </p>
         <p>
-          Our club offers workshops, seminars, and hands-on projects to help you
+          We offer workshops, seminars, and hands-on projects to help you
           develop your skills in electronics design and prototyping.
         </p>
         <p>

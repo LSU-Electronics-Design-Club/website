@@ -18,6 +18,9 @@ const TopBar = () => {
         <a href="/events">
           <h6>Events</h6>
         </a>
+        <a href="/resources">
+          <h6>Resources</h6>
+        </a>
       </div>
     </div>
   );

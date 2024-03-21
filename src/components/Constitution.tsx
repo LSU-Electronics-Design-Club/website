@@ -4,7 +4,7 @@ const Constitution = () => {
       <iframe
         src="https://pub-4a5c351e48c34a18817678ead6714bda.r2.dev/EDCLSU%20Constitution.pdf"
         className="w-full min-h-screen"
-        title="Resume"
+        title="EDC Constitution"
       />
     </div>
   );

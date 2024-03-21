@@ -6,6 +6,7 @@ import TopBar from "./components/TopBar.tsx";
 import App from "./App.tsx";
 import About from "./About.tsx";
 import Events from "./Events.tsx";
+import Resources from "./Resources.tsx";
 import BottomBar from "./components/BottomBar.tsx";
 
 ReactDOM.render(
@@ -18,6 +19,7 @@ ReactDOM.render(
             <Route path="/" element={<App />} />
             <Route path="/about" element={<About />} />
             <Route path="/events" element={<Events />} />
+            <Route path="/resources" element={<Resources />} />
           </Routes>
         </Router>
       </div>

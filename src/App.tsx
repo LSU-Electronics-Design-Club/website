@@ -105,7 +105,7 @@ function App() {
       <Carousel images={images} />
 
       <h2 className="text-center mt-8">
-        Checkout Some of Our Member's Projects:
+        Check Out Some of Our Member's Projects:
       </h2>
       <Projects />
     </>

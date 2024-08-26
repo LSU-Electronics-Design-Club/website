@@ -7,6 +7,7 @@ import App from "./App.tsx";
 import About from "./About.tsx";
 import Events from "./Events.tsx";
 import Resources from "./Resources.tsx";
+import Projects from "./Projects.tsx";
 import BottomBar from "./components/BottomBar.tsx";
 
 ReactDOM.render(
@@ -20,6 +21,7 @@ ReactDOM.render(
             <Route path="/about" element={<About />} />
             <Route path="/events" element={<Events />} />
             <Route path="/resources" element={<Resources />} />
+            <Route path="/projects" element={<Projects />} />
           </Routes>
         </Router>
       </div>

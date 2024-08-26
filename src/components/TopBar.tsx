@@ -15,11 +15,14 @@ const TopBar = () => {
         <a href="/about">
           <h6>About</h6>
         </a>
-        <a href="/events">
+        {/* <a href="/events">
           <h6>Events</h6>
-        </a>
+        </a> */}
         <a href="/resources">
           <h6>Resources</h6>
+        </a>
+        <a href="/projects">
+          <h6>Projects</h6>
         </a>
       </div>
     </div>

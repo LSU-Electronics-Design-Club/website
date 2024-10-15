@@ -2,6 +2,7 @@ import React, { useState, useEffect, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import "./App.css"; // Include this if you have any other global styles
 
+import image0 from "./assets/MainPage/EDCLSU_PCB.jpg";
 import image1 from "./assets/MainPage/MASON_CONVERTER.png";
 import image2 from "./assets/MainPage/Nemesis-MixSigPCB_Final.png";
 import image3 from "./assets/MainPage/PCB_Jacob.jpg";
@@ -11,7 +12,7 @@ import image6 from "./assets/MainPage/STM32_Jacob.png";
 import image7 from "./assets/MainPage/STM32.png";
 import Projects from "./Projects";
 
-const images = [image1, image2, image3, image4, image5, image6, image7];
+const images = [image0, image1, image2, image3, image4, image5, image6, image7];
 
 const Carousel = ({ images }) => {
   const [currentIndex, setCurrentIndex] = useState(0);
